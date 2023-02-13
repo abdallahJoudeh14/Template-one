@@ -95,7 +95,7 @@ header .container .links ul::before{
     border: 15px solid transparent;
     border-bottom-color: #f6f6f6;
     right: 0;
-    top: -28px;
+    top: -30px;
 }
 
 header .container .links ul li a{
